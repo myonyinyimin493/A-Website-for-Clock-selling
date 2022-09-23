@@ -1,0 +1,226 @@
+.modal-title{
+	text-align: center;
+}
+
+.dropdown-toggle{
+	color: black;
+	opacity: 0.7;
+}
+
+.modal-body{
+	text-align: center;
+
+}
+
+.modal-content{
+	width: 400px;
+	text-align: center;
+	border: solid;
+	border-radius: 25px;
+	padding: 10px;
+	background-color: #515151;
+}
+.modal-title{
+	color: black;
+}
+
+a.list{
+	font-weight: bold !important;
+}
+
+b{
+	vertical-align: middle;
+}
+
+img.rol{
+	margin-top: -20px;
+}
+
+#menu{
+	margin: 10px;
+	margin-right: -10px;
+}
+
+input.searchinput{
+	border-style: none;
+}
+
+.brand:hover{
+	opacity: 0.7;
+}
+
+.grid-container {
+  display: grid;
+  grid-template-columns: auto auto;
+  grid-gap: 10px;
+  padding: 10px;
+}
+.grid-container > div {
+  
+  text-align: justify-all;
+  width: 100%;
+  overflow: hidden;
+}
+
+.grid-container > div > img{
+	width: 100%;
+}
+
+.one:hover{
+	opacity: 0.7;
+	transform:scale(1.1); transition: all 1s;
+}
+ .two{
+ 	height: 280px;
+ }
+
+ .two:hover{
+ 	opacity: 0.7;
+	transform:scale(1.1); transition: all 1s;
+ }
+
+ .heading{
+ 	font-weight: bolder;
+ 	text-align: center;
+ 	color: black;
+ }
+ .col-sm-3{
+ 	width: 100% !important;
+ }
+
+ .three{
+ 	width: 100% !important;
+ }
+p{
+	text-align: center;
+	font-weight: bolder;
+}
+
+.h{
+	font-weight: bolder;
+	color: black;
+}
+
+.p{
+	text-align: center;
+	font-weight: bolder;
+	font-size: large;
+}
+
+.col-xs-4{
+	text-align: center;
+}
+
+.text-block {
+    position: absolute;
+    margin-top: -400px;
+    left: 20px;
+    background-color: black;
+    color: white;
+    padding-left: 20px;
+    padding-right: 20px;
+    opacity:0.7;
+    font-size: larger;
+    font-weight: bolder;
+}
+
+.btn{	
+	color: black;
+	margin-top: -20px;
+	font-weight: bold;
+}
+
+.btn:hover{
+	background-color: #C0C0C0;
+	color: blue;
+}
+
+.overlay {
+  position: absolute; 
+  bottom: 0;  
+  width: 100%;
+  transition: .5s ease;
+  opacity:0;
+  color: black;
+  text-align: center;
+  font-weight: bold;
+}
+.anima{
+width: 100%;
+ padding: 20px;
+ background-color: white;
+}
+
+#anima:hover{
+  opacity: 1;
+}
+
+.rol{
+	margin-top: 20px;
+}
+
+.fa-facebook:hover{
+color: blue;
+}
+
+.fa-twitter:hover{
+	color: #00FFFF;
+}
+
+.fa-instagram:hover{
+	color: #F46731;
+}
+
+.social{
+	text-decoration: none;
+
+}
+/*.navbar-default{
+position: fixed;
+top: 30px;
+width: 100%;
+}
+
+#loca{
+	position: fixed;
+	top: 0;
+  	width: 100%;
+}*/
+
+
+
+/*women.css*/
+.btn-primary{
+	background-color: white; 
+	height: 50px !important;
+	border-style: none;
+	opacity: 0.5;
+
+}
+
+.btn-primary:visited{
+	opacity: 1;
+}
+
+.btn-primary:hover{
+	opacity: 1;
+}
+
+.btn-group-justified{
+	width: 400px !important;
+}
+
+.btn-group{
+	padding: 2px;
+}
+
+#rol{
+	margin-top: -20px;
+}
+
+.col-md-2{
+	border-right: solid 1px;
+}
+.im{
+    margin-left: 95px;
+}
